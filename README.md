@@ -2,4 +2,8 @@
 
 > Status: em progresso
 
+```
+node app.js
+```
+
 
